@@ -1,0 +1,19 @@
+#team_name {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+    font-style: normal;
+    border: 5px solid rgb(0, 175, 250);
+    border-radius: 100px;
+    border-left: 10px;
+    border-right: 10px;
+    border-spacing: 10px;
+}
+html {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701479870.jpg);
+    padding: 2px;
+    background-position: center;
+    background-size: cover;
+}
