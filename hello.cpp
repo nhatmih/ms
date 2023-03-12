@@ -2,9 +2,11 @@
 
 using namespace std;
 
+void helloworldnhatminh()
+{
+    cout << "hello world";
+}
 int main(){
-    cout<<"Day la NhatMinh";
-    cout<<"Mine mine mine";
-    cout<<"Hello World!";
+    helloworldnhatminh;
     return 0;
 }
