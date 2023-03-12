@@ -2,7 +2,11 @@
 
 using namespace std;
 
+void helloworldnhatminh()
+{
+    cout << "hello world";
+}
 int main(){
-    cout<<"Hello World @NhatMinh";
+    helloworldnhatminh;
     return 0;
 }
