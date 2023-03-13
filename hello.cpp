@@ -3,7 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "remember to merge your own branch to main before push" << endl;
-    cout << "Hello World !";
+    cout<<"Hello World @TanDat";
     return 0;
 }
